@@ -1,4 +1,4 @@
-<img src="https://github.com/detectivesheepy/mp3party/blob/main/mp3party.png?raw=true" height="150" align="right"/>
+<img src="https://github.com/detectivesheepy/mp3party/blob/main/mp3partyassets/mp3party.png?raw=true" height="150" align="right"/>
 
 ### mp3party 🎉 !
 Bringing the fun back to mp3 players.
